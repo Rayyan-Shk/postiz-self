@@ -9,11 +9,11 @@
         "outputs": ["{options.outputPath}"],
         "defaultConfiguration": "production",
         "options": {
-          "outputPath": "dist/apps/frontend"
+          "outputPath": "apps/frontend/.next"
         },
         "configurations": {
           "production": {}
         }
       }
     }
-  }
+}
