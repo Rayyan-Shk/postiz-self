@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "buildCommand": "npx nx run frontend:build:production",
+    "buildCommand": "cd apps/frontend && npx next build",
     "outputDirectory": "apps/frontend/.next",
     "installCommand": "npm install && npm run prisma-generate",
     "framework": "nextjs"
