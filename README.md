@@ -109,4 +109,36 @@ This repository's source code is available under the [AGPL-3.0 license](LICENSE)
   <a href="https://www.g2.com/products/postiz/take_survey" target="blank"><img alt="g2" src="https://github.com/user-attachments/assets/892cb74c-0b49-4589-b2f5-fbdbf7a98f66" /></a>
 </p>
 
+# Postiz - Modified Version
+
+This repository contains a modified version of [Postiz](https://github.com/original-repo/postiz), the AI social media scheduling tool.
+
+## Modifications Notice
+
+This repository contains modifications to the original Postiz codebase. In accordance with the AGPL-3.0 license requirements:
+
+- All modifications are released under the same AGPL-3.0 license
+- The source code for these modifications is available in this repository
+- Major changes include:
+  - [Brief description of your major changes]
+  - [Any additional significant modifications]
+
+## Source Code Access
+
+As required by the AGPL-3.0 license, the complete source code for this modified version, including all changes, is available:
+
+- In this GitHub repository: [Your repository URL]
+- Direct download: [Optional link to downloadable archive]
+- You can also request the source code by contacting: [Your contact email]
+
+## Original Project
+
+This project is based on [Postiz](https://postiz.com), an open source social media scheduling tool. The original project is licensed under AGPL-3.0 and is copyright of its original authors.
+
+## License
+
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE) - see the LICENSE file for details.
+
+Per the AGPL-3.0 license terms, users of any network service running this modified software have the right to receive the complete corresponding source code.
+
 
