@@ -106,7 +106,7 @@
     "@uppy/status-bar": "^4.0.3",
     "@uppy/xhr-upload": "^4.1.0",
     "ai": "^4.0.22",
-    "algoliasearch": "^5.18.0",
+    "algoliasearch": "^5.25.0",
     "array-move": "^4.0.0",
     "axios": "^1.7.7",
     "bcrypt": "^5.1.1",
